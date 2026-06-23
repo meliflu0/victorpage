@@ -1,18 +1,18 @@
 import { r as __toESM } from "../_runtime.mjs";
-import { t as hero_portrait_default } from "./hero-portrait-CEVmqiMU.mjs";
+import { t as hero_portrait_default } from "./hero-portrait-fZkozQss.mjs";
 import { n as require_jsx_runtime, r as require_react } from "../_libs/react+tanstack__react-query.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/routes-Ply3yq_8.js
+//#region node_modules/.nitro/vite/services/ssr/assets/routes-CAh-KrBw.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
-var artist_default = "/assets/artist-3Ja7SwRU.jpg";
-var work_1_default = "/assets/work-1-CAYCGJ9y.jpg";
-var work_2_default = "/assets/work-2-CgNAdc5V.jpg";
-var work_3_default = "/assets/work-3-C5T3dojM.jpg";
-var work_4_default = "/assets/work-4-CQto6Cm8.jpg";
-var work_5_default = "/assets/work-5-BHl5Vmmt.jpg";
-var work_6_default = "/assets/work-6-uplD6NoB.jpg";
-var work_7_default = "/assets/work-7-BY1IuyXy.jpg";
-var work_8_default = "/assets/work-8-CE7rQ4LC.jpg";
+var artist_default = "/assets/artist-CvJy6C9L.jpg";
+var work_1_default = "/assets/work-1-B-smVI8d.jpg";
+var work_2_default = "/assets/work-2-CK3VFwj6.jpg";
+var work_3_default = "/assets/work-3-Cu-r-oSA.jpg";
+var work_4_default = "/assets/work-4-D04lqPtv.jpg";
+var work_5_default = "/assets/work-5-BcQce0mr.jpg";
+var work_6_default = "/assets/work-6-CQtefemt.jpg";
+var work_7_default = "/assets/hero-portrait-D1sSRPrw.jpg";
+var work_8_default = "/assets/work-8-DBLsCHdl.jpg";
 var works = [
 	{
 		src: work_1_default,
